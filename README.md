@@ -16,7 +16,7 @@ See a [demo](https://twitter.com/mckaywrigley/status/1636103188733640704).
 
 Chatbot UI will be updated over time.
 
-Expect frequent improvements.
+Expect frequent improvements
 
 **Next up:**
 
